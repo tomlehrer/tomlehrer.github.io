@@ -55,5 +55,5 @@ smoke and we will shortly demonstrate the fire
 
 [5] most commonly structured as a n-ary tree of height 1
 
-[6] [(master, borgouise), (worker, proletariat), (elect, elect),
+[6] [(master, bourgeoisie), (worker, proletariat), (elect, elect),
 (consensus protocol, democracy)]
