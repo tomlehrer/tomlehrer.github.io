@@ -1,0 +1,59 @@
+trees considered problematic
+
+in this essay, we explore the violence perpetuated by trees. while
+many contend that trees are beneficial or at most benign, it is clear
+that they have not approached this topic through the lens of critical
+theory. our thesis is threefold: trees encode hierarchies of power,
+they glorify violence against marginalized groups, and they allow us
+to expose the pernicious nature of liberal democracy.
+
+it is well understood how systems encode repressive ideologies. in the
+case of trees, these repressive ideologies are directly encoded in the
+naming of associated entities [1] and in the tree's underlying
+structure. for any given node in a tree, with the exception of the
+root, there exists a node which is referred to as its parent [2]. this
+naming reveals a thinly veiled patriarchial hierarchy. returning to
+the case of the root node, we are forced to conclude it is a variant
+type representing either the christian diety or the liberal
+bourgeoisie.
+
+our next contention is that trees glorify violence against
+marginalized groups. we provide an existence proof using memory
+hierarchies [3]. several of the lower layers of the memory hierarchy
+are referred to as the cache. progressively lower layers in the cache
+provide increasingly fast access times in diminishing quantities. if
+some data can be found in a given layer of the cache, it is referred
+to as a cache-hit. a cache-hit is considered a good thing by almost
+all versed in the study of computer science [4]. additionally, note
+the widely held view that it is best to hit the lowest layer in the
+cache. hitting those at the bottom of the power hierarchy is
+explicitly celebrated.
+
+our final proof is demonstrated through distributed systems. one
+popular architecture is the master-worker architecture [5]. in
+particular, we are concerned with what happens when the master
+requires replacement. most distributed systems use a distributed
+"consensus protocol", such as paxos or raft, to vote for and elect a
+new master. this language is no accident: it is isomorphic to that of
+liberal democracy [6]. democracy, ostensibly about electing
+representitive leaders, is merely a facade for maintaining the power
+of the bourgeoisie.
+
+
+notes:
+
+[1] we intentionally avoid using the problematic phrase "its
+entities", as that would imply a hierarchy. while trees are
+problematic, we can certainly do better with the use of our language
+
+[2] we are forced to use the problematic posessive "its". there's the
+smoke and we will shortly demonstrate the fire
+
+[3] these are normally visualized as unary trees
+
+[4] a field infamous for its lack of inclusivity
+
+[5] most commonly structured as a n-ary tree of height 1
+
+[6] [(master, borgouise), (worker, proletariat), (elect, elect),
+(consensus protocol, democracy)]
